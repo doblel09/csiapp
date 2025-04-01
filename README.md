@@ -29,6 +29,15 @@ Bienvenido a **CSIApp**, un proyecto colaborativo. Sigue estos pasos para config
    npm install  # o el comando específico del proyecto
    ```
 
+## Desarrollo
+
+1. Corre el servidor de node:
+   ```node server.js```
+
+2. Corre el front con React/Vite:
+   ```npm run dev```
+
+
 ## Contribución
 
 1. Crea una nueva rama para tu cambio:
@@ -45,16 +54,6 @@ Bienvenido a **CSIApp**, un proyecto colaborativo. Sigue estos pasos para config
    ```sh
    git push origin feature/nueva-funcionalidad
    ```
-
-## Desarrollo
-
-1. Corre el servidor de node:
-   ```node server.js```
-
-2. Corre el front con React/Vite:
-   ```npm run dev```
-
-4. Crea un **Pull Request** en GitHub hacia la rama `development`.
 
 ## Buenas prácticas
 - Sigue la convención de nombres de ramas: `feature/nombre`, `fix/nombre`, `hotfix/nombre`.
