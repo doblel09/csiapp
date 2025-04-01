@@ -46,6 +46,14 @@ Bienvenido a **CSIApp**, un proyecto colaborativo. Sigue estos pasos para config
    git push origin feature/nueva-funcionalidad
    ```
 
+## Desarrollo
+
+1. Corre el servidor de node:
+   ```node server.js```
+
+2. Corre el front con React/Vite:
+   ```npm run dev```
+
 4. Crea un **Pull Request** en GitHub hacia la rama `development`.
 
 ## Buenas prácticas
